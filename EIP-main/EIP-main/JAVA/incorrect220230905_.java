@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
 
 // The main method must be in a class named "Main".
-class Main {
+class incorrect220230905_ {
     public static void main(String[] args) {
         int p = 0;
         for(int i=2; i<100; i++){

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class Map_ {
 	
 	public static void main(String[] args){
 		/*
@@ -11,7 +11,7 @@ public class Main {
 		
 		
 		// HashMap
-		Map<Integer, String> h = new HashMap<>();
+		Map <Integer, String> h = new HashMap<>();
 		h.put(1, "A");
 		System.out.println(h);
 		h.put(1, "C"); // 기존값이 변경된다.
@@ -26,7 +26,7 @@ public class Main {
 		System.out.println("=========================");
 		
 		// TreeMap
-		Map<Integer, String> map = new TreeMap<>();
+		Map <Integer, String> map = new TreeMap<>();
 		map.put(1, "A");
 		// hashmap과 동일
 	}

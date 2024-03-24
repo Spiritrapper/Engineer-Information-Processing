@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class Set_ {
 	
 	public static void main(String[] args){
     // HashSet
@@ -8,8 +8,8 @@ public class Main {
 		System.out.println(h);
 		h.add(1);
 		System.out.println(h);
-		h.add(1);
-		System.out.println(h); // 중복값 허용 x
+		//h.add(1);
+		//System.out.println(h); // 중복값 허용 x
 		h.remove(1); // set은 list와 달리 값으로 삭제, list는 인덱스로 삭제
 		System.out.println(h);
 		System.out.println(h.size());
