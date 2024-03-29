@@ -1,6 +1,20 @@
 {
   "version": "0.2.0",
   "configurations": [
+
+    {
+      "name": "Java Runner: Debug Session",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "SoojebiPractice",
+      "projectName": "Engineer-Information-Processing",
+      "args": [],
+      "program": "e:/PARK/git_repository/Engineer-Information-Processing/EIP-main/EIP-main/JAVA/soojebi_/build/Debug/outDebug",
+      "cwd": "${workspaceFolder}/EIP-main/EIP-main/JAVA/soojebi_",
+      "console": "internalConsole",
+      "stopOnEntry": false
+    },
+
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",

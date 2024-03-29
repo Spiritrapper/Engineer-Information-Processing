@@ -1,4 +1,4 @@
-
+package soojebi_;
 class T_Soojebi extends Thread{
     public void run() {
         System.out.println("Run");

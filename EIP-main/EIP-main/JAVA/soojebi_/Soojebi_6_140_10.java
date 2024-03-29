@@ -1,3 +1,5 @@
+package soojebi_;
+
 class Parent{
     public int compute(int num){
         if(num <=1) return num;

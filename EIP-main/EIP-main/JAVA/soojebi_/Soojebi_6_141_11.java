@@ -1,3 +1,5 @@
+package soojebi_;
+
 public class Soojebi_6_141_11 {
     public static void main(String[] args) {
         int[][] arr = new int[2][3];

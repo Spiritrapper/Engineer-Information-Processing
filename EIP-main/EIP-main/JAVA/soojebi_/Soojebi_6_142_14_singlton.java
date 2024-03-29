@@ -1,3 +1,4 @@
+package soojebi_;
 class Soojebi{
     static private Soojebi instance = null;
     private int count = 0;

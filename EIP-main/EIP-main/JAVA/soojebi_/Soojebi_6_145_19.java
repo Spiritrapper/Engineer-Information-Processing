@@ -1,3 +1,4 @@
+package soojebi_;
 public class Soojebi_6_145_19 {
     int a;
     
